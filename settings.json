@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MeinkampReborn.aternos.me",
+    "ip": "meinkampreborn.aternos.me",
     "port": 50694,
     "version": "",
     "try-creative": false
