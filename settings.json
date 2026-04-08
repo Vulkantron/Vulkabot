@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "meinkampreborn.aternos.me",
-    "port": 50694,
+    "ip": "46.224.7.62",
+    "port": 25609,
     "version": "",
     "try-creative": false
   },
